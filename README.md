@@ -1,2 +1,3 @@
 # AnshumanPanda-demo
-This is m7y first repository
+This is my first repository
+Author- Anshuman Panda
